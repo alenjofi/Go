@@ -1,0 +1,6 @@
+{
+  "name": "gogetters",
+  "version": "1.0.0",
+  "description": "Go Getters portfolio website",
+  "private": true
+}
